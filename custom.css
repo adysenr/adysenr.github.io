@@ -1,0 +1,140 @@
+body {
+    width: 95%;
+    margin: 0 auto;
+    color: #0F243E;
+    font-family: 'Raleway', sans-serif;
+}
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+h4 {
+    font-weight: 600;
+}
+h6 {
+    font-family: 'Raleway', sans-serif;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+}
+.navbar {
+    color: white !important;
+    background-color: #0F243E !important;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light a{
+    color:white !important;
+}
+#navbar {
+    width: 100% !important;
+
+}
+.llgimg {
+    margin-right: 10px;
+}
+#upcoming {
+    background: #757575;
+    color: white;
+}
+#support {
+    background: #757575;
+    color: white;
+}
+#border {
+    border-width: 5px;
+    border-style: solid;
+    border-color: #F0CC41;
+}
+.btn {
+    background: #0F243E;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    
+}
+.btn:hover {
+    background: #F0CC41;
+    color: #0F243E;
+}
+.row {
+    margin-top: 10px;
+}
+#centerbtn {
+    display: flex;
+    justify-content: center;
+}
+#btn {
+    display: flex;
+    justify-content: center;
+}
+#socials {
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+    border-radius: 5px;
+    
+}
+#llg {
+    margin: 0 auto;
+}
+#footer {
+    background: #0F243E;
+    width: 100%;
+    color: white;
+}
+.card-header {
+    background: #F0CC41;
+    color: #0F243E;
+}
+.card-body {
+    background: #757575;
+    color: white;
+}
+.card-subtitle {
+    color: white !important;
+}
+#yellowcard {
+    color: #F0CC41;
+}
+.btn-group {
+    margin: 0 auto;
+    display: inline-block;
+}
+.card.col-6.border {
+    border-color: white;
+}
+.card {
+    margin-top: 10px;
+}
+.btn.btn-secondary a {
+    text-decoration: none;
+    color: white;
+}
+#borderround {
+    border-radius: 10px;
+}
+.teampic {
+    margin: 0 auto;
+    margin-top: 5px;
+    text-align: center;
+
+}
+#teampic {
+    max-width:100%;
+    height:auto;
+    display: inline-block;
+}
+.aboutpics {
+    margin:0 auto;
+    margin-top:5px;
+    text-align: center;
+}
+.adjustpic {
+    max-width: 25%;
+    height:auto;
+    display: inline-block;
+}
+.youtube {
+    display: inline-block;
+    margin: 0 auto;
+    margin-top: 5px;
+}
